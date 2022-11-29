@@ -1,0 +1,15 @@
+numpy~=1.15.2
+pandas~=1.0.3
+tensortools~=0.3
+munkres~=1.0.12
+bottleneck~=1.2.1
+scipy~=1.1.0
+scikit-learn~=0.20.2
+matplotlib~=3.1.1
+cascade~=0.0.1
+seaborn~=0.9.0
+tensorflow~=1.14.0
+statsmodels~=0.11.0
+yaml~=0.1.7
+pyyaml~=5.3.1
+setuptools~=46.0.0
